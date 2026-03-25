@@ -138,12 +138,6 @@ The Tableau dashboard includes:
 ```
 
 ---
-
-If you found this project useful, feel free to fork it and adapt the metric layer for your own customer analytics use case.
-
-## 13) Immediate Next Step (快速下一步)
-If you are continuing this project now, start with:
-1. Connect real data and generate `data/processed/customer_ltv_dataset.csv`.
 2. Finalize the Tableau dashboard and replace placeholder screenshot/workbook artifacts.
 3. Quantify insights in the docs with actual values (e.g., repeat LTV uplift, top 10% contribution).
 
