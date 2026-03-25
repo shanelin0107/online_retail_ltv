@@ -2,6 +2,11 @@
 
 > **Portfolio Summary:** Built an end-to-end customer LTV analytics solution that translates transaction-level online retail data into executive KPIs, behavioral customer segmentation, and retention-focused business actions in Tableau.
 
+## Tableau Dashboard
+
+[![Online Retail Customer Lifetime Value Dashboard](assets/images/dashboard_thumbnail.png)](https://public.tableau.com/app/profile/ching.hsuan.lin6585/viz/LTV_Online_Retail/Dashboard1)
+
+
 ## 1) Business Problem
 Online retail businesses often monitor total sales but lack a clear view of **who drives long-term value** and **which customer behaviors should be prioritized**. Without customer-level LTV visibility, retention and upsell investments can be misallocated.
 
