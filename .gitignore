@@ -1,0 +1,41 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Data files (keep folders, ignore large local datasets)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Logs / temp
+*.log
+tmp/
+temp/
+
+# Tableau / BI artifacts
+*.hyper
+*.tde
+*.twbr
+*.twb~
+*.twbx.lock
+
+# Export artifacts
+*.png
+*.pdf
+*.pptx
+
+# Keep selected tracked placeholders
+!dashboards/screenshots/dashboard_overview.png
