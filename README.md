@@ -4,7 +4,7 @@
 
 ## Tableau Dashboard
 
-[![Online Retail Customer Lifetime Value Dashboard](assets/images/dashboard_thumbnail.png)](https://public.tableau.com/app/profile/ching.hsuan.lin6585/viz/LTV_Online_Retail/Dashboard1)
+[![Online Retail Customer Lifetime Value Dashboard](tb2.png)](https://public.tableau.com/app/profile/ching.hsuan.lin6585/viz/LTV_Online_Retail/Dashboard1)
 
 
 ## 1) Business Problem
